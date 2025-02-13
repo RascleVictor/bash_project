@@ -1,4 +1,5 @@
-a bash script for the installation of multiple tool for the bugbounty install_subfinder
+a bash script for the installation of multiple tool for the bugbounty 
+subfinder https://github.com/projectdiscovery/subfinder
 sublist3r https://github.com/aboul3la/Sublist3r
 httpx  https://github.com/projectdiscovery/httpx
 gobuster https://github.com/OJ/gobuster
