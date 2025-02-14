@@ -95,10 +95,6 @@ Droits administrateurs si nécessaire
 
 Vous pouvez modifier le script install.sh pour ajouter ou supprimer des outils selon vos besoins.
 
-📄 Licence
-
-Ce projet est sous licence MIT - voir le fichier LICENSE pour plus de détails.
-
 💡 Remarque
 
 L'utilisation de ces outils doit se faire dans un cadre légal et éthique. Toujours obtenir une autorisation avant de tester un système tiers.
